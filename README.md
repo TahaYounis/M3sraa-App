@@ -1,5 +1,7 @@
 # M3sraa-App
-• An app for a leading company to sell its products online
+• An app for a leading company to sell all its products and orders online 
+
+• Admin control of all products, orders, and notifications
 
 • Achieved 350+ users and 50+ orders so far.
 
